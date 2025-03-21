@@ -1,6 +1,6 @@
 sample,read1
-S250107396_L01_3,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/master/S250107396_L01_3_dsp.fq.gz
-S250107396_L01_4,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/master/S250107396_L01_4_dsp.fq.gz
-S250100012_L01_47,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/master/S250100012_L01_47_dsp.fq.gz
-S250100012_L01_38,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/master/S250100012_L01_38_dsp.fq.gz
-S250100012_L01_21,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/master/S250100012_L01_21_dsp.fq.gz
+S250107396_L01_3,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/master/single_end/S250107396_L01_3_dsp.fq.gz
+S250107396_L01_4,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/master/single_end/S250107396_L01_4_dsp.fq.gz
+S250100012_L01_47,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/master/single_end/S250100012_L01_47_dsp.fq.gz
+S250100012_L01_38,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/master/single_end/S250100012_L01_38_dsp.fq.gz
+S250100012_L01_21,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/master/single_end/S250100012_L01_21_dsp.fq.gz
