@@ -1,0 +1,11 @@
+sample,read1
+sample_01,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/single_end_sm/sample_01.fq.gz
+sample_02,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/single_end_sm/sample_02.fq.gz
+sample_03,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/single_end_sm/sample_03.fq.gz
+sample_04,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/single_end_sm/sample_04.fq.gz
+sample_05,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/single_end_sm/sample_05.fq.gz
+sample_06,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/single_end_sm/sample_06.fq.gz
+sample_07,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/single_end_sm/sample_07.fq.gz
+sample_08,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/single_end_sm/sample_08.fq.gz
+sample_09,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/single_end_sm/sample_09.fq.gz
+sample_10,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/single_end_sm/sample_10.fq.gz
